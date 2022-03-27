@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/",
+  pathPrefix: "/rev-sneeuq-amard",
   siteMetadata: {
     title: "Lin",
     siteUrl: "https://ntr1994.github.io",
